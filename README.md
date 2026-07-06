@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanshi Sharma</h1>
 
 <h3 align="center">
-Data Analytics Enthusiast • Python Developer • Educator
+Data Analyst • Python Developer • Educator
 </h3>
 
 <p align="center">
