@@ -6,7 +6,7 @@ Data Analyst • Python Developer • Educator
 
 <p align="center">
 Passionate about turning data into insights and building practical Python projects.
-Currently transitioning from EdTech into Data Analytics and Data Science.
+
 </p>
 
 ---
