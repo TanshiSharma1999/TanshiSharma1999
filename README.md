@@ -80,16 +80,7 @@ Currently transitioning from EdTech into Data Analytics and Data Science.
 
 ---
 
-## 📚 Currently Learning
 
-- Data Analytics
-- Machine Learning
-- Statistics
-- Power BI
-- SQL
-- Advanced Python
-
----
 
 ## 🤝 Let's Connect
 
