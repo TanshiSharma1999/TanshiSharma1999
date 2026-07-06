@@ -91,28 +91,12 @@ Currently transitioning from EdTech into Data Analytics and Data Science.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TanshiSharma1999&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanshiSharma1999&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 💼 LinkedIn
 
 https://www.linkedin.com/in/tanshi-sharma-2655a9195
 
-📧 Email
 
-tanshi.sharma9@gmail.com
-
----
 
 ⭐ Thanks for visiting my profile!
