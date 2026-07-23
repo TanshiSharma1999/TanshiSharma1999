@@ -17,7 +17,7 @@ Passionate about building educational technology, analyzing data, and creating i
 - 👩‍🏫 Delivered 10,000+ live classes to global learners
 - 🐍 Python Developer with a passion for automation and problem solving
 - 📊 Building Data Analytics & Machine Learning projects
-- 🎮 Learning Unity to create educational games
+- 🎮 Unity to create educational/fun games
 - 🌱 Exploring AI, SQL, Power BI and Interactive Learning Technologies
 
 ---
